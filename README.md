@@ -1,12 +1,12 @@
 # ft_printf
 
-##Task
+## Task
 Write the prototype of printf() function like this:
 ```
 int ft_printf(const char *, ...);
 ```
 
-##Here are the requirements:
+## Here are the requirements:
 - Don’t implement the buffer management of the original printf().
 - Your function has to handle the following conversions: cspdiuxX%
 - Your function will be compared against the original printf().
@@ -26,4 +26,5 @@ You have to implement the following conversions:
 - %X Prints a number in hexadecimal (base 16) uppercase format.
 - %% Prints a percent sign.
 
-This project only completed a mandatory part.
+## About project
+ ✨This project only completed a mandatory part.✨
